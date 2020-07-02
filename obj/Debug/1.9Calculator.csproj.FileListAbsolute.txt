@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\1.9Calculator\bin\Debug\1.9Calculator.exe.config
+C:\Users\Admin\source\repos\1.9Calculator\bin\Debug\1.9Calculator.exe
+C:\Users\Admin\source\repos\1.9Calculator\bin\Debug\1.9Calculator.pdb
+C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\_1._9Calculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.exe
+C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.pdb
+C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\_1._9Calculator.FoeCalculator.resources
