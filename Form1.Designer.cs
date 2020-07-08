@@ -31,7 +31,6 @@ namespace _1._9Calculator
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FoeCalculator));
-            this.resultDisplay = new System.Windows.Forms.TextBox();
             this.maxPR = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -41,21 +40,8 @@ namespace _1._9Calculator
             this.label4 = new System.Windows.Forms.Label();
             this.currentOnPlace = new System.Windows.Forms.TextBox();
             this.getResult = new System.Windows.Forms.Button();
+            this.resultDisplay = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
-            // resultDisplay
-            // 
-            this.resultDisplay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.resultDisplay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.resultDisplay.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F);
-            this.resultDisplay.ForeColor = System.Drawing.Color.Orange;
-            this.resultDisplay.Location = new System.Drawing.Point(12, 12);
-            this.resultDisplay.Multiline = true;
-            this.resultDisplay.Name = "resultDisplay";
-            this.resultDisplay.ReadOnly = true;
-            this.resultDisplay.Size = new System.Drawing.Size(317, 60);
-            this.resultDisplay.TabIndex = 0;
-            this.resultDisplay.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // maxPR
             // 
@@ -179,6 +165,20 @@ namespace _1._9Calculator
             this.getResult.UseVisualStyleBackColor = true;
             this.getResult.Click += new System.EventHandler(this.getResult_Click);
             // 
+            // resultDisplay
+            // 
+            this.resultDisplay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.resultDisplay.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.resultDisplay.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F);
+            this.resultDisplay.ForeColor = System.Drawing.Color.Orange;
+            this.resultDisplay.Location = new System.Drawing.Point(12, 12);
+            this.resultDisplay.Multiline = true;
+            this.resultDisplay.Name = "resultDisplay";
+            this.resultDisplay.ReadOnly = true;
+            this.resultDisplay.Size = new System.Drawing.Size(317, 60);
+            this.resultDisplay.TabIndex = 0;
+            this.resultDisplay.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // FoeCalculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -196,6 +196,7 @@ namespace _1._9Calculator
             this.Controls.Add(this.label1);
             this.Controls.Add(this.maxPR);
             this.Controls.Add(this.resultDisplay);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "FoeCalculator";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -206,8 +207,6 @@ namespace _1._9Calculator
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox resultDisplay;
         private System.Windows.Forms.TextBox maxPR;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
@@ -217,6 +216,7 @@ namespace _1._9Calculator
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox currentOnPlace;
         private System.Windows.Forms.Button getResult;
+        private TextBox resultDisplay;
     }
 }
 

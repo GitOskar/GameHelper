@@ -8,3 +8,13 @@ C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.csproj.CoreCom
 C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.exe
 C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\1.9Calculator.pdb
 C:\Users\Admin\source\repos\1.9Calculator\obj\Debug\_1._9Calculator.FoeCalculator.resources
+D:\Repositories\bin\Debug\1.9Calculator.exe.config
+D:\Repositories\bin\Debug\1.9Calculator.exe
+D:\Repositories\bin\Debug\1.9Calculator.pdb
+D:\Repositories\obj\Debug\1.9Calculator.csprojAssemblyReference.cache
+D:\Repositories\obj\Debug\_1._9Calculator.FoeCalculator.resources
+D:\Repositories\obj\Debug\_1._9Calculator.Properties.Resources.resources
+D:\Repositories\obj\Debug\1.9Calculator.csproj.GenerateResource.cache
+D:\Repositories\obj\Debug\1.9Calculator.csproj.CoreCompileInputs.cache
+D:\Repositories\obj\Debug\1.9Calculator.exe
+D:\Repositories\obj\Debug\1.9Calculator.pdb
